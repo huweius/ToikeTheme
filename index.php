@@ -3,10 +3,10 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="UTF-8">
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="Toike%20Oike_files/bootstrap.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="<? get_stylesheet();?>">
 		
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="Toike%20Oike_files/bootstrap.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="js/bootstrap.js"></script>
 		
 		<title>Toike Oike</title>
 		
@@ -21,7 +21,7 @@
 		<div class="container">
 			<div class="row panel">
 				<div class="col-md-12">
-					<img src="Toike%20Oike_files/ToikeSword.jpg" alt="Toike Oike Logo">
+					<img src="statics/ToikeSword.jpg" alt="Toike Oike Logo">
 				</div>
 			</div>
 			<div class="row">
@@ -67,7 +67,7 @@ suscipit pulvinar libero. </p>
 					<div class="col-md-3 text-center">
 						<h2>Current Issue</h2>
 						<h4>March 2016</h4>
-						<img src="Toike%20Oike_files/Toike-march-2016-cover-200x268.jpg">
+						<img src="statics/Toike-march-2016-cover-200x268.jpg"/>
 						<h6>View PDF</h6>
 						<h6>Archives</h6>
 					</div>

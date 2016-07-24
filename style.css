@@ -1,0 +1,21 @@
+/*
+Theme Name: Toike Oike
+Theme URI: https://github.com/huweius/ToikeTheme
+Author: Willy HU
+Author URI: http://willy-hu.net/
+Description: The theme for Toike Oike newspaper of U of Toronto Engineering
+Version: 0.1
+License: GNU GPL v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: private
+
+*/
+
+
+body{
+    padding-top: 70px;
+}
+
+#toike-navbar-header{
+    padding-right: 20px;
+}
